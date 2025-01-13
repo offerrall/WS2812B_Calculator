@@ -14,7 +14,7 @@ pip install .
 
 Run the calculator:
 ```bash
-python WS2812B_power.py
+python WS2812B_power.pyw
 ```
 
 Features:
