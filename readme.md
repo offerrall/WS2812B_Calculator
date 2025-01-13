@@ -2,6 +2,10 @@
 
 Simple GUI calculator for WS2812B LED strip power requirements.
 
+</div>
+<img src="./example.png">
+</div>
+
 ## Installation
 All code is only 30 lines long, the gui is created using the `FuncToGUI` package, install it with:
 ```bash
