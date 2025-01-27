@@ -13,7 +13,6 @@ git clone https://github.com/offerrall/FuncToGUI
 cd FuncToGUI
 pip install .
 ```
-
 ## Usage
 
 Run the calculator:
